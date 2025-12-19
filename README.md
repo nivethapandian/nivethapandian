@@ -26,6 +26,7 @@
   <img src="https://iconic-api.onrender.com/dark/git" width="48px" title="Git"/>
   <img src="https://iconic-api.onrender.com/dark/github" width="48px" title="GitHub"/>
   <img src="https://iconic-api.onrender.com/dark/vscode" width="48px" title="VS Code"/>
+  <img src="https://iconic-api.onrender.com/dark/postman" width="48px" title="PostMan"/>
   <img src="https://iconic-api.onrender.com/dark/eclipse" width="48px" title="Eclipse"/>
 </p>
 <hr/>
